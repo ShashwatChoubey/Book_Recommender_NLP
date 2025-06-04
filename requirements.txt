@@ -1,0 +1,12 @@
+gradio
+kagglehub
+langchain_chroma
+langchain_community
+langchain_huggingface
+langchain_text_splitters
+matplotlib
+numpy
+pandas
+seaborn
+tqdm
+transformers
